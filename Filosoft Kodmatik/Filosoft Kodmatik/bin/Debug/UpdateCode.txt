@@ -1,0 +1,13 @@
+Using Sqlkodu As New SqlCommand("Update TabloKapasiteBolge Set ID=@ID,Goster=@Goster,BolgeAdi=@BolgeAdi,SubeID=@SubeID,SenkronizasyonTarihi=@SenkronizasyonTarihi Where ID='"& Sırano &"'",DatabaseBaglan)
+Sqlkodu.Parameters.AddWithValue("@ID","")
+Sqlkodu.Parameters.AddWithValue("@Goster","")
+Sqlkodu.Parameters.AddWithValue("@BolgeAdi","")
+Sqlkodu.Parameters.AddWithValue("@SubeID","")
+Sqlkodu.Parameters.AddWithValue("@SenkronizasyonTarihi","")
+Sqlkodu.ExecuteNonQuery()
+End Using
+Textleri_Temizle()
+Textleri_Kilitle()
+()
+MessageBox.Show("Bilgi Güncelleme İşlemi Başarılı !","Bilgi",MessageBoxButtons.OK, MessageBoxIcon.Information)
+

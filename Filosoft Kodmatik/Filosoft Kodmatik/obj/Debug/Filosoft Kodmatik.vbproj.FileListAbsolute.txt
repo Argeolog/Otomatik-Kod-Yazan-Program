@@ -1,0 +1,24 @@
+C:\Users\Filosoft Yazılım\AppData\Local\Temporary Projects\Filosoft Kodmatik\bin\Debug\Filosoft Kodmatik.exe.config
+C:\Users\Filosoft Yazılım\AppData\Local\Temporary Projects\Filosoft Kodmatik\bin\Debug\Filosoft Kodmatik.exe
+C:\Users\Filosoft Yazılım\AppData\Local\Temporary Projects\Filosoft Kodmatik\bin\Debug\Filosoft Kodmatik.pdb
+C:\Users\Filosoft Yazılım\AppData\Local\Temporary Projects\Filosoft Kodmatik\bin\Debug\Filosoft Kodmatik.xml
+C:\Users\Filosoft Yazılım\AppData\Local\Temporary Projects\Filosoft Kodmatik\obj\Debug\Filosoft_Kodmatik.Form1.resources
+C:\Users\Filosoft Yazılım\AppData\Local\Temporary Projects\Filosoft Kodmatik\obj\Debug\Filosoft_Kodmatik.Resources.resources
+C:\Users\Filosoft Yazılım\AppData\Local\Temporary Projects\Filosoft Kodmatik\obj\Debug\Filosoft Kodmatik.vbproj.GenerateResource.Cache
+C:\Users\Filosoft Yazılım\AppData\Local\Temporary Projects\Filosoft Kodmatik\obj\Debug\Filosoft Kodmatik.exe
+C:\Users\Filosoft Yazılım\AppData\Local\Temporary Projects\Filosoft Kodmatik\obj\Debug\Filosoft Kodmatik.xml
+C:\Users\Filosoft Yazılım\AppData\Local\Temporary Projects\Filosoft Kodmatik\obj\Debug\Filosoft Kodmatik.pdb
+E:\Filosoft Kodmatik\Filosoft Kodmatik\bin\Debug\Filosoft Kodmatik.exe.config
+E:\Filosoft Kodmatik\Filosoft Kodmatik\obj\Debug\Filosoft Kodmatik.exe
+E:\Filosoft Kodmatik\Filosoft Kodmatik\obj\Debug\Filosoft Kodmatik.xml
+E:\Filosoft Kodmatik\Filosoft Kodmatik\obj\Debug\Filosoft Kodmatik.pdb
+E:\Filosoft Kodmatik\Filosoft Kodmatik\bin\Debug\Filosoft Kodmatik.exe
+E:\Filosoft Kodmatik\Filosoft Kodmatik\bin\Debug\Filosoft Kodmatik.pdb
+E:\Filosoft Kodmatik\Filosoft Kodmatik\bin\Debug\Filosoft Kodmatik.xml
+E:\Filosoft Kodmatik\Filosoft Kodmatik\obj\Debug\Filosoft_Kodmatik.Resources.resources
+E:\Filosoft Kodmatik\Filosoft Kodmatik\obj\Debug\Filosoft Kodmatik.vbproj.GenerateResource.Cache
+E:\Filosoft Kodmatik\Filosoft Kodmatik\obj\Debug\Filosoft_Kodmatik.Anasayfa.resources
+E:\Filosoft Kodmatik\Filosoft Kodmatik\obj\Debug\Filosoft Kodmatik.vbproj.CoreCompileInputs.cache
+E:\Filosoft Kodmatik\Filosoft Kodmatik\obj\Debug\Filosoft Kodmatik.vbproj.CopyComplete
+E:\Filosoft Kodmatik\Filosoft Kodmatik\obj\Debug\Filosoft Kodmatik.vbproj.AssemblyReference.cache
+E:\Filosoft Kodmatik\Filosoft Kodmatik\obj\Debug\Filosoft Kodmatik.vbproj.SuggestedBindingRedirects.cache

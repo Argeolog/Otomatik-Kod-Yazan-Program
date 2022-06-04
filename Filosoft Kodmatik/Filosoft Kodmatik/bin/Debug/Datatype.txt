@@ -1,0 +1,12 @@
+Sqlkodu = New SqlCommand("Create Table TabloFirmalar (ID int identity(1,1) Not Null, FirmaAdi nvarchar(Max), FirmaID int)", YeniBaglantı)
+Sqlkodu.ExecuteNonQuery()
+
+ 
+Sqlkodu = New SqlCommand("Create Table TabloYazilimLisansSatis (ID int identity(1,1) Not Null, LokasyonAdi nvarchar(Max), il nvarchar(50), ilce nvarchar(50), FirmaAdi nvarchar(150), FirmaID int, LisansSayisi int, FotoKameraSayisi int, AttsLisansSayisi int, Demo bit, DemoBaslangic date, DemoBitis date, Marka bit, Model bit, Renk bit, Tip bit, Yil bit, CalismayiDurdur bit, ServerClient nvarchar(50), YazilimTipi nvarchar(150), ClientAnahtar nvarchar(150), ClientLisans nvarchar(50), YazilimSerialKey nvarchar(150), KayitEden nvarchar(50), TarihSaat datetime)", YeniBaglantı)
+Sqlkodu.ExecuteNonQuery()
+
+ 
+Sqlkodu = New SqlCommand("Create Table TabloYazilimSatis (ID int identity(1,1) Not Null, FirmaAdi nvarchar(200), YazilimAdi nvarchar(100), LisansSayisi int, Demo bit, Aciklama nvarchar(Max), TarihSaat datetime, FirmaSelectindex int, DongleData nvarchar(Max), DongleSerial nvarchar(50))", YeniBaglantı)
+Sqlkodu.ExecuteNonQuery()
+
+ 

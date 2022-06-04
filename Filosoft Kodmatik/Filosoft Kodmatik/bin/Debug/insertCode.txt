@@ -1,0 +1,18 @@
+Using SqlKodu As New SqlCommand("Insert Into TabloKapasite (ID,KapasiteID,BolgeAdi,AracKapasite,iceridekiAracSayisi,KisiKapasite,iceridekiKisiSayisi,SubeID,KapasiteGuncellenmeZamani,SenkronizasyonTarihi) Values (@ID,@KapasiteID,@BolgeAdi,@AracKapasite,@iceridekiAracSayisi,@KisiKapasite,@iceridekiKisiSayisi,@SubeID,@KapasiteGuncellenmeZamani,@SenkronizasyonTarihi)",DatabaseBaglan)
+Sqlkodu.Parameters.AddWithValue("@ID","")
+Sqlkodu.Parameters.AddWithValue("@KapasiteID","")
+Sqlkodu.Parameters.AddWithValue("@BolgeAdi","")
+Sqlkodu.Parameters.AddWithValue("@AracKapasite","")
+Sqlkodu.Parameters.AddWithValue("@iceridekiAracSayisi","")
+Sqlkodu.Parameters.AddWithValue("@KisiKapasite","")
+Sqlkodu.Parameters.AddWithValue("@iceridekiKisiSayisi","")
+Sqlkodu.Parameters.AddWithValue("@SubeID","")
+Sqlkodu.Parameters.AddWithValue("@KapasiteGuncellenmeZamani","")
+Sqlkodu.Parameters.AddWithValue("@SenkronizasyonTarihi","")
+Sqlkodu.ExecuteNonQuery()
+End Using
+Textleri_Temizle()
+Textleri_Kilitle()
+
+MessageBox.Show("Kayıt İşlemi Başarılı !","Bilgi",MessageBoxButtons.OK, MessageBoxIcon.Information)
+
